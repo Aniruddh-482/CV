@@ -30,7 +30,7 @@ p {
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #98DDCA 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -70,6 +70,25 @@ a:hover {
 
 .pro {
   text-decoration: underline;
+}
+
+.hi_gif {
+  height: 2rem;
+  width: 2rem;
+}
+
+.skill_gifs {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.idea_gif {
+  height: 3rem;
+  width: 3rem;
+}
+
+.handshake_gif {
+  height: 2rem;
 }
 
 .intro {
